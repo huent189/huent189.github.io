@@ -153,6 +153,7 @@ a:focus {
 .cta-btn:hover {
     color: #000000 !important;
     -webkit-text-fill-color: #ffffff;
+    background-color: #00cdac;
     text-decoration: none;
 }
 /*
